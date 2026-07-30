@@ -26,7 +26,7 @@ I like research that starts with:
 
 ### [ocelotiq.ru](https://ocelotiq.ru)
 
-A unified API for working with different AI models through a single balance and endpoint.
+A unified API for working with different AI models through a single balance and endpoint. (CIS only)
 
 `Go` · `PostgreSQL` · `Redis` · `Docker` · `Svelte`
 
